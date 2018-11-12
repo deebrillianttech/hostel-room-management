@@ -1,3 +1,8 @@
+"""HRMS
+   Hostel Room Management System
+   Created by kains Praveen on 12/11/18.
+   Copyright © 2018 kains Praveen. All rights reserved.
+"""
 import os
 from getpass import getpass
 
